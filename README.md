@@ -1,26 +1,19 @@
-# Hello, I'm Wasiq Khan 👋
+Hello, I'm Wasiq Khan 👋
+I'm a dedicated MERN Stack Developer with a strong emphasis on backend development, passionate about expanding my skills and knowledge in the field.
 
-I'm a Node.js backend developer with a passion for learning and a strong desire to gain more knowledge and experience in my field.
+About Me
+🌐 I currently work as a MERN Stack Developer, where I build robust applications using both frontend and backend technologies.
+📚 My expertise lies in backend development with Node.js, where I create scalable server-side applications and APIs.
+🚀 I’m also proficient in frontend development using React.js, allowing me to create dynamic and engaging user interfaces.
+📧 Feel free to reach out at wasiqkhan527462@gmail.com for inquiries, collaborations, or just to connect!
+Interests
+💻 Exploring emerging technologies and trends in web development.
+📖 Committed to continuous learning and self-improvement.
+🎮 Enjoying video games and immersive experiences during my free time.
+Contact
+If you'd like to connect, collaborate, or have any questions, don’t hesitate to reach out via email at wasiqkhan527462@gmail.com. I’m always open to networking with fellow developers and professionals.
 
-## About Me
-
-- 🌐 I'm currently working as a Node.js backend developer.
-- 📚 I have a solid foundation in backend development using Node.js.
-- 🚀 I'm on a journey to enhance my skills and knowledge, and I'm currently learning React.js to broaden my horizons.
-- 📧 You can reach me at wasiqkhan527462@gmail.com for any inquiries or collaborations.
-
-## Interests
-
-- 💻 Exploring new technologies and trends in web development.
-- 📖 Continuous learning and self-improvement.
-- 🎮 Enjoying video games during my free time.
-
-## Contact
-
-If you'd like to get in touch with me or have any questions, feel free to reach out via email at wasiqkhan527462@gmail.com. I'm always open to connecting with fellow developers and professionals.
-
-## Email
+Email
 wasiqkhan527462@gmail.com
 
-Thank you for visiting my GitHub profile!
-
+Thank you for visiting my GitHub profile! I look forward to connecting with you!
